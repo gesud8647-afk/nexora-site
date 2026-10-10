@@ -41,3 +41,9 @@ Vercel hosts the Next.js app; **your PC can be turned off**. Each GitHub push to
 - A publicly available crypto business must use hosting terms compatible with commercial use. Vercel Hobby is not intended for commercial production.
 - Add privacy policy, verified official links, accessibility and security review before public launch.
 - **Never claim Mainnet staking is available until audited and deployed.**
+
+## Vercel update (mobile Phantom)
+- The DEVNET TESTING navigation badge was removed; Devnet staking remains clearly identified as a test in the staking section.
+- Mainnet token link opens the provided Pump.fun URL.
+- On HTTPS mobile, use Open in Phantom Mobile to launch the Phantom in-app browser. Connect requests wallet authorization; Verify wallet requests an OPTIONAL off-chain message signature. No funds move and no server-side authentication is implied.
+- Mobile wallet behavior depends on Phantom app/version; verify on a real device.
